@@ -7,6 +7,17 @@
 
 /* Section CSS */
 
+#about_container {
+    background-color: yellow;
+}
+
+#contact_container {
+    background-color: orange;
+}
+
+#project_container {
+    background-color: red;
+}
 
 
 /* About Section CSS */
